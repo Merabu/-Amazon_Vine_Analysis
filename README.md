@@ -12,6 +12,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 ### There is a bulleted list that addresses the three questions for unpaid and paid program reviews
 
+![results](https://user-images.githubusercontent.com/115379848/232918671-3a1b7890-4bdd-4299-b7ba-6285d5fcf7ff.png)
 
 ## Summary:
 
