@@ -19,11 +19,17 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 
 54.4% of the Vine reviews were 5-star reviews
+
 47.1% of the Non-vine reviews were 5-star reviews
+
 36038 Unpaid reviews (non-vine)
+
 272 Paid reviews (vine)
+
 148 Vine 5-star reviews
+
 16964 Non-vine 5-star reviews
+
 
 ### An additional analysis is recommended to support the statement 
 
